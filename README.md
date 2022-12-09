@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/64788904/201541120-a58a5490-d380-44b7-84e9-57228ed29600.svg" width=300 align="center"/>
+<img src="https://user-images.githubusercontent.com/64788904/201541120-a58a5490-d380-44b7-84e9-57228ed29600.svg?#vitrinedev" width=300 align="center"/>
 	<hr />
 	<h2>Video App mobile </h2>
 <video src="https://user-images.githubusercontent.com/64788904/201542373-2eec1a16-44a5-4a19-bf00-d1848d7b6993.mp4">
